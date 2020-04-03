@@ -10,7 +10,7 @@
 
 *4.趣头条无水印解析api*
 
-*5.微笑短视频无水印解析api*
+*5.微视短视频无水印解析api*
 
 *6.最右视频无水印解析api*
 
@@ -30,4 +30,5 @@ Email：chouyuc@outlook.com
 
 
 欢迎关注公众号【[种花家的袋鼠](https://github.com/chouYuc/ChouYuc_Api/blob/master/WeChatCode.jpg)】
+
 ![WeChatCode.jpg](https://github.com/chouYuc/ChouYuc_Api/blob/master/WeChatCode.jpg)
