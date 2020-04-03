@@ -10,12 +10,12 @@
 
 *4.趣头条无水印解析api*
 
-*5.微笑短视频无水印解析api*
+*5.微视短视频无水印解析api*
 
 *6.最右视频无水印解析api*
 
 
-短视频单解析就先分享到这里，后面可能会更新批量解析，如果需要其他平台单解析或批量解析的可以关注我的公众号【[种花家的袋鼠](https://github.com/chouYuc/ChouYuc_Api)】留言给我，公众号也会分享解析流程说不定对你更有帮助，如有帮助到你，欢迎star！
+短视频单解析就先分享到这里，后面可能会更新批量解析，如果需要其他平台单解析或批量解析的可以关注我的公众号【[种花家的袋鼠](https://github.com/chouYuc/ChouYuc_Api/blob/master/WeChatCode.jpg)】留言给我，公众号也会分享解析流程说不定对你更有帮助，如有帮助到你，欢迎star！
 
 # 项目声明
 本项目主要是用来记录自己的进步，
@@ -29,5 +29,6 @@
 Email：chouyuc@outlook.com
 
 
-欢迎关注公众号【[种花家的袋鼠](https://github.com/chouYuc/ChouYuc_Api)】
-![](https://pandao.github.io/editor.md/images/logos/)
+欢迎关注公众号【[种花家的袋鼠](https://github.com/chouYuc/ChouYuc_Api/blob/master/WeChatCode.jpg)】
+
+![WeChatCode.jpg](https://github.com/chouYuc/ChouYuc_Api/blob/master/WeChatCode.jpg)
