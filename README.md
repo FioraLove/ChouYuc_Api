@@ -42,7 +42,7 @@
 * 快手批量
 
 如果需要其他平台单解析或批量解析的可以关注我的公众号【[种花家的袋鼠](https://github.com/chouYuc/ChouYuc_Api/blob/master/WeChatCode.jpg)】留言给我，公众号也会分享解析流程说不定对你更有帮助，如有帮助到你，欢迎star！
-做了一个解析地址：http://www.micrbird.com/
+做了一个解析网站：http://www.micrbird.com/
 
 # 项目声明
 本项目主要是用来记录自己的进步，
